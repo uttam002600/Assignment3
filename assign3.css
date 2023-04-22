@@ -1,0 +1,38 @@
+body{
+    background-image: url(https://i.gifer.com/76YS.gif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.ha{
+    color: rgb(174, 18, 18);
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.aa{
+    background: #060505e8;
+    height: 600px;
+    width: 1180px;
+    margin:38px 133px;
+    border: 6px solid rgb(153, 202, 38);
+    border-radius: 20px;
+
+}
+.ab{
+    text-align: center;
+    font-size: 25px;
+    color: rgb(248, 245, 245);
+    
+}
+.hb{
+    color: rgb(78, 7, 63);
+    text-align: center;
+    font-style: italic;
+}
+.ac{
+    height: 53px;
+    width: 138px;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: red;
+}
