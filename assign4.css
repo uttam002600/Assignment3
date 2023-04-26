@@ -36,3 +36,28 @@ body{
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: red;
 }
+@media (max-width: 400px){
+   .aa{
+        max-width: 250px;
+        margin: auto; 
+        
+    }
+}
+@media (max-width:400px){
+    .ab{
+        font-size: 15px;
+}
+}
+@media (max-width:400px){
+    .ac{
+        height: 30px;
+    width: 60px;
+    font-size: 12px;
+}
+}
+@media (max-width:400px){
+    .aaa{
+        width: 180px;
+        alig
+}
+}
